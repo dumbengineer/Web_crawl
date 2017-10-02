@@ -1,0 +1,60 @@
+case1:
+start_url="https://en.wikipedia.org/wiki/sun"
+output--
+https://en.wikipedia.org/wiki/sun
+https://en.wikipedia.org/wiki/Star
+https://en.wikipedia.org/wiki/Plasma_(physics)
+https://en.wikipedia.org/wiki/Ancient_Greek
+https://en.wikipedia.org/wiki/Greek_language
+https://en.wikipedia.org/wiki/Modern_Greek
+https://en.wikipedia.org/wiki/Colloquialism
+https://en.wikipedia.org/wiki/Vernacular
+https://en.wikipedia.org/wiki/Dialect
+We've arrived at an article we've already seen, aborting search!
+case2:
+start_url = "https://en.wikipedia.org/wiki/seed"
+output--
+https://en.wikipedia.org/wiki/seed
+https://en.wikipedia.org/wiki/Plant_embryogenesis
+https://en.wikipedia.org/wiki/Seed_development
+https://en.wikipedia.org/wiki/Plant_anatomy
+https://en.wikipedia.org/wiki/Anatomy
+https://en.wikipedia.org/wiki/Biology
+https://en.wikipedia.org/wiki/Natural_science
+https://en.wikipedia.org/wiki/Science
+https://en.wikipedia.org/wiki/Latin_language
+https://en.wikipedia.org/wiki/Classical_language
+https://en.wikipedia.org/wiki/Language
+https://en.wikipedia.org/wiki/Communication
+https://en.wikipedia.org/wiki/Meaning_(semiotics)
+https://en.wikipedia.org/wiki/Semiotics
+https://en.wikipedia.org/wiki/Meaning-making
+https://en.wikipedia.org/wiki/Psychology
+https://en.wikipedia.org/wiki/Behavior
+https://en.wikipedia.org/wiki/American_English
+https://en.wikipedia.org/wiki/Language_variety
+https://en.wikipedia.org/wiki/Sociolinguistics
+https://en.wikipedia.org/wiki/Society
+https://en.wikipedia.org/wiki/Social_group
+https://en.wikipedia.org/wiki/Social_science
+https://en.wikipedia.org/wiki/Discipline_(academia)
+https://en.wikipedia.org/wiki/Knowledge
+case3:
+start_url = "https://en.wikipedia.org/wiki/chair"
+output--
+https://en.wikipedia.org/wiki/chair
+https://en.wikipedia.org/wiki/Furniture
+https://en.wikipedia.org/wiki/Chair
+We've arrived at an article we've already seen, aborting search!
+case4:
+start_url = "https://en.wikipedia.org/wiki/cattle"
+output--
+https://en.wikipedia.org/wiki/cattle
+https://en.wikipedia.org/wiki/Domestication
+https://en.wikipedia.org/wiki/Charles_Darwin
+https://en.wikipedia.org/wiki/Natural_history#Before_1900
+https://en.wikipedia.org/wiki/Research
+https://en.wikipedia.org/wiki/Knowledge
+https://en.wikipedia.org/wiki/Fact
+https://en.wikipedia.org/wiki/Verificationism
+We've found the target article!
